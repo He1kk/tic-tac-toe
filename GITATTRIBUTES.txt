@@ -1,3 +1,0 @@
-tic-tac-toe/Form1.Designer.cs linguist-generated=true
-tic-tac-toe/Form1.resx linguist-generated=true
-tic-tac-toe/Properties/Resources.Designer.cs linguist-generated=true
